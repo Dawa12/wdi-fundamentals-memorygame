@@ -2,11 +2,11 @@
   height: 50%;
   width: 50%;
   display: inline-block;
-  float: left;
+  float: left;         
   margin: 8%;
 }
 
-.card { 
+.card {   
   height: 200px;
   width: 150px;
   border: 1px solid;
@@ -70,12 +70,7 @@ footer {
   text-align: center;
 }
 
-
-/*
-body {
-  width: 900px;
+img {
+  height: 200px;
+  width: 150px;
 }
-*/ attempt to make width smaller 
-
-
-
